@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kapil Kumar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 - 🔭 I’m currently working on **My Skills**
 
-- 🌱 I’m currently learning **Java,sql**
+- 🌱 I’m currently learning **Python,sql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
