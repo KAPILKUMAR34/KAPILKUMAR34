@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kapil Kumar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 - 🔭 I’m currently working on **My Skills**
 
-- 🌱 I’m currently learning **Java,sql**
+- 🌱 I’m currently learning **Power BI , SQL , Python , and Excel**
 
 - 📫 How to reach me **kkapilkumar5671@gmail.com**
 
